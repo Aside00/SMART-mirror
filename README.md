@@ -37,3 +37,6 @@ Follow the detailed instructions in the provided documentation to set up your sm
 
 Feel free to customize this description further based on specific details of your project and any additional features or acknowledgments you'd like to include. Happy building, and enjoy your personalized smart mirror experience!
 
+#resorce 
+https://github.com/EbenKouao/MMM-SmartTouch
+https://magicmirror.builders/
