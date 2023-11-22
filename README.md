@@ -1,6 +1,3 @@
-Certainly! I've incorporated the additional details you provided about the required components and the source for downloading the software. Here's the updated description:
-
----
 
 # Smart Mirror Project
 
