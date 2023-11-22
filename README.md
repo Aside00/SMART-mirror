@@ -39,4 +39,10 @@ Feel free to customize this description further based on specific details of you
 
 # Sources
 https://github.com/EbenKouao/MMM-SmartTouch
+
+
 https://magicmirror.builders/
+
+# NOTE
+By choosing the features, you can add a lot and it is ready to download from their main site, which was mentioned in the sources
+Here I am sharing with you my modification of the site’s coordinates to match the Kingdom of Saudi Arabia, specifically the city of Taif and Saudi Arabia News etc..
